@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: rgb(255, 217, 147);
+}
+
+
+.left {
+    text-align: left;
+}
+
+.center {
+    text-align: center;
+}
+
+.right {
+    text-align: right;
+}
+
+.justify {
+    text-align: justify;
+}
+
+.image {
+    text-align: center;
+}
+
+img {
+    width: 500px;
+}
+
+
